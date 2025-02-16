@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔧 I’m currently learning Java Development and working towards finding my first job in IT
-- 💡 I enjoy exploring new technologies and building software solutions
-- 🌟 Soft skills and continuous learning are key to personal and professional growth
+- 🔧 Currently learning Java Development and expanding my skills in software engineering.
+- 💡 Passionate about exploring new technologies and creating innovative solutions.
+- 🌟 Committed to continuous learning and enhancing soft skills for personal and professional growth.
 
 ### My technology stack
 ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java)
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333?style=for-the-badge&logo=intellijidea)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql)
 
-
+### Contacts
 [![linkedin](https://img.shields.io/badge/-linkedin-333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-sydorskyi-0a4797322/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/oleksandr-sydorskyi)
 
