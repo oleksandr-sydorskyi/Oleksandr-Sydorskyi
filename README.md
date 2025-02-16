@@ -1,6 +1,5 @@
 ## Oleksandr Sydorskyi
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/oleksandr-sydorskyi-0a4797322/))
 
 <!--
 **yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +20,18 @@ Here are some ideas to get you started:
 - 💡 I enjoy exploring new technologies and building software solutions
 - 🌟 Soft skills and continuous learning are key to personal and professional growth
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,git,github,idea,docker,linux)](https://skillicons.dev)
+### My technology stack
+![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-333?style=for-the-badge&logo=spring)
+![Hibernate](https://img.shields.io/badge/-Hibernate-333?style=for-the-badge&logo=hibernate)
+![Maven](https://img.shields.io/badge/-Maven-333?style=for-the-badge&logo=apachemaven)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333?style=for-the-badge&logo=intellijidea)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oleksandr-sydorskyi&theme=ayu_mirage)
+
+[![linkedin](https://img.shields.io/badge/-linkedin-333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-sydorskyi-0a4797322/)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/oleksandr-sydorskyi)
 
