@@ -21,15 +21,20 @@ Here are some ideas to get you started:
 - 🌟 Committed to continuous learning and enhancing soft skills for personal and professional growth.
 
 ### My technology stack
-![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-333?style=for-the-badge&logo=spring)
-![Hibernate](https://img.shields.io/badge/-Hibernate-333?style=for-the-badge&logo=hibernate)
-![Maven](https://img.shields.io/badge/-Maven-333?style=for-the-badge&logo=apachemaven)
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333?style=for-the-badge&logo=intellijidea)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql)
+<p>
+    <a href="https://github.com/oleksandr-sydorskyi/My_certificates/blob/main/Java_Core_Sydorskyi-certificate.pdf?raw=true" target="_blank">
+        <img src="https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java" alt="Java logo">
+    </a>
+    <img src="https://img.shields.io/badge/-Spring-333?style=for-the-badge&logo=spring" alt="Spring">
+    <img src="https://img.shields.io/badge/-Hibernate-333?style=for-the-badge&logo=hibernate" alt="Hibernate">
+    <img src="https://img.shields.io/badge/-Maven-333?style=for-the-badge&logo=apachemaven" alt="Maven">
+    <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git" alt="Git">
+    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub" alt="GitHub">
+    <img src="https://img.shields.io/badge/-VS%20Code-333?style=for-the-badge&logo=visualstudiocode" alt="VS Code">
+    <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-333?style=for-the-badge&logo=intellijidea" alt="IntelliJ IDEA">
+    <img src="https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql" alt="MySQL">
+</p>
+
 
 ### Contacts
 [![linkedin](https://img.shields.io/badge/-linkedin-333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-sydorskyi-0a4797322/)
