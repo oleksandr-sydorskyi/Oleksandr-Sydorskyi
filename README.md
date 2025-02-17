@@ -21,19 +21,15 @@ Here are some ideas to get you started:
 - 🌟 Committed to continuous learning and enhancing soft skills for personal and professional growth.
 
 ### My technology stack
-<p>
-<a href="https://github.com/oleksandr-sydorskyi/My_certificates/blob/main/Java_Core_Sydorskyi-certificate.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java" alt="Java logo">
-</a>
-    <img src="https://img.shields.io/badge/-Spring-333?style=for-the-badge&logo=spring" alt="Spring">
-    <img src="https://img.shields.io/badge/-Hibernate-333?style=for-the-badge&logo=hibernate" alt="Hibernate">
-    <img src="https://img.shields.io/badge/-Maven-333?style=for-the-badge&logo=apachemaven" alt="Maven">
-    <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git" alt="Git">
-    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub" alt="GitHub">
-    <img src="https://img.shields.io/badge/-VS%20Code-333?style=for-the-badge&logo=visualstudiocode" alt="VS Code">
-    <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-333?style=for-the-badge&logo=intellijidea" alt="IntelliJ IDEA">
-    <img src="https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql" alt="MySQL">
-</p>
+[![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java)](https://github.com/oleksandr-sydorskyi/My_certificates/blob/main/Java_Core_Sydorskyi-certificate.pdf)
+![Spring](https://img.shields.io/badge/-Spring-333?style=for-the-badge&logo=spring)
+![Hibernate](https://img.shields.io/badge/-Hibernate-333?style=for-the-badge&logo=hibernate)
+![Maven](https://img.shields.io/badge/-Maven-333?style=for-the-badge&logo=apachemaven)
+[![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)](https://github.com/oleksandr-sydorskyi/My_certificates/blob/main/Git_and_Terminal_Sydorskyi-certificate.pdf)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/oleksandr-sydorskyi)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333?style=for-the-badge&logo=intellijidea)
+[![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql)](https://github.com/oleksandr-sydorskyi/My_certificates/blob/main/SQL_Basics_Sydorskyi-certificate.pdf)
 
 
 ### Contacts
