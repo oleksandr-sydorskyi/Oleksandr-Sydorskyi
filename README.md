@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ### My technology stack
 <p>
-    <a href="https://github.com/oleksandr-sydorskyi/My_certificates/blob/main/Java_Core_Sydorskyi-certificate.pdf?raw=true" target="_blank">
-        <img src="https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java" alt="Java logo">
-    </a>
+<a href="https://github.com/oleksandr-sydorskyi/My_certificates/raw/main/Java_Core_Sydorskyi-certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java" alt="Java logo">
+</a>
     <img src="https://img.shields.io/badge/-Spring-333?style=for-the-badge&logo=spring" alt="Spring">
     <img src="https://img.shields.io/badge/-Hibernate-333?style=for-the-badge&logo=hibernate" alt="Hibernate">
     <img src="https://img.shields.io/badge/-Maven-333?style=for-the-badge&logo=apachemaven" alt="Maven">
