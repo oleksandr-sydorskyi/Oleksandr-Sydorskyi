@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=for-the-badge&logo=visualstudiocode)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333?style=for-the-badge&logo=intellijidea)
 [![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql)](https://github.com/oleksandr-sydorskyi/My_certificates/blob/main/SQL_Basics_Sydorskyi-certificate.pdf)
-
+[![ChatGPT](https://img.shields.io/badge/-ChatGPT-333?style=for-the-badge&logo=openai)](https://github.com/oleksandr-sydorskyi/My_certificates/blob/main/Chatgpt_certificate.png)
+[![English B1](https://img.shields.io/badge/English-B1-333?style=for-the-badge&logo=googletranslate)](https://github.com/oleksandr-sydorskyi/My_certificates/blob/main/English%20B1%2B%20certificate.pdf)
 
 ### Contacts
 [![linkedin](https://img.shields.io/badge/-linkedin-333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-sydorskyi-0a4797322/)
