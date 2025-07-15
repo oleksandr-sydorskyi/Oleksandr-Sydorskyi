@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 🌟 Committed to continuous learning and enhancing soft skills for personal and professional growth.
 
 ### My technology stack
-[![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java)](https://github.com/oleksandr-sydorskyi/My_certificates/blob/main/Java_Core_Sydorskyi-certificate.pdf)
+[![Java beginer](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java)](https://github.com/oleksandr-sydorskyi/My_certificates/blob/main/Java_Core_Sydorskyi-certificate.pdf)
+[![Java developer](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java)]([https://github.com/oleksandr-sydorskyi/My_certificates/blob/main/Java_Core_Sydorskyi-certificate.pdf](https://github.com/oleksandr-sydorskyi/My_certificates/blob/main/sydorskyi-%20Java%20developer%20certificate%2014.07.2025.pdf))
 ![Spring](https://img.shields.io/badge/-Spring-333?style=for-the-badge&logo=spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-333?style=for-the-badge&logo=hibernate)
 ![Maven](https://img.shields.io/badge/-Maven-333?style=for-the-badge&logo=apachemaven)
